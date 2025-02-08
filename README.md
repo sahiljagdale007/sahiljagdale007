@@ -45,7 +45,7 @@
 </div>
 
 <div align="left">
-  <img src="https://leetcard.jacoblin.cool/sahiljagdale07?border=0&radius=20" height="200" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/sahiljagdale07?border=0&radius=20" height="120" alt="LeetCode Stats" />
 </div>
 
 <br clear="both">
