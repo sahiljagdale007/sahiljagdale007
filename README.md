@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahil</h1>
+<h1 align="center">Hi 👋, I'm Sahil Jagdale</h1>
 <h3 align="center">A passionate Coder & Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahiljagdale007&label=Profile%20views&color=0e75b6&style=flat" alt="sahiljagdale007" /> </p>
