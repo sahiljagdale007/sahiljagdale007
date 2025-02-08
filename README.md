@@ -37,9 +37,6 @@
 ###
 
 <div align="center">
-  p {
-    margin-top: 20px;
-}
  <a href="https://www.linkedin.com/in/sahiljagdale07/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="80" alt="linkedin logo"  />
   </a>
