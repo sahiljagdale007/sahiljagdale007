@@ -11,15 +11,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahiljagdale007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
 ###
 
-
-
-
-###
-
-<div align="center">
+<div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
