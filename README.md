@@ -45,7 +45,7 @@
     <img align="right" height="400" src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/hackerman-programming.gif"  />
 </div>
 
-<div align="left">
+<div align="right">
   <img src="https://leetcard.jacoblin.cool/sahiljagdale07?border=0&radius=20" height="160" alt="LeetCode Stats" />
 </div>
 
