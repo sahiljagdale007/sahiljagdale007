@@ -1,5 +1,5 @@
 ![logo](https://github.com/sahiljagdale007/sahiljagdale007/blob/main/github%20img.png)
-<h2 align="left">Hi 👋! My name is Sahil and I'm a Tech Enthusiast</h2>
+<h2 align="center">Hey there! 👋 I'm Sahil, a passionate Tech Enthusiast always exploring new innovations</h2>
 
 ###
 
