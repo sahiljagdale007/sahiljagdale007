@@ -46,7 +46,7 @@
 
 <div align="left">
   <img src="https://leetcard.jacoblin.cool/sahiljagdale07?border=0&radius=20" height="160" alt="LeetCode Stats" />
-  <img align="right" height="160" src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif"  />
+  <img align="right" height="190" src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif"  />
 </div>
 
 <br clear="both">
