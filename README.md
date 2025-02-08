@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+![logo](https://github.com/sahiljagdale007/sahiljagdale007/blob/main/github%20img.png)
+<h2 align="left">Hi 👋! My name is Sahil and I'm a Tech Enthusiast</h2>
 
 ###
 
