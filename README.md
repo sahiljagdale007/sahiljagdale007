@@ -2,7 +2,7 @@
 <h2 align="center">Hey there! 👋 I'm Sahil, a passionate Tech Enthusiast always exploring new innovations</h2>
 
 ###
-<img align="left" height="300" src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif"  />
+
 <img align="right" height="400" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"  />
 
 ###
@@ -47,7 +47,7 @@
 <div align="left">
   <img src="https://leetcard.jacoblin.cool/sahiljagdale07?border=0&radius=20" height="160" alt="LeetCode Stats" />
 </div>
-
+<img align="left" height="160" src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif"  />
 <br clear="both">
 
 
