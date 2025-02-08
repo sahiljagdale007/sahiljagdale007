@@ -2,6 +2,7 @@
 <h2 align="center">Hey there! 👋 I'm Sahil, a passionate Tech Enthusiast always exploring new innovations</h2>
 
 ###
+<img align="right" height="500" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"  />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahiljagdale007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -11,7 +12,7 @@
 
 ###
 
-<img align="right" height="500" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"  />
+
 
 
 ###
