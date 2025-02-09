@@ -1,4 +1,4 @@
-![logo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVtazY5ODI2Z3d3M3NyaWFicTl3MjhwaXdneG02ZzdzaWtzYmh3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yl3XErRq8qmmA/giphy.gif)
+![logo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZuMnNrZGxza2xnc3Bqa2U5MGtiNXhtcjczYWNhYmx3bW0zMjFqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNfcWhlz0GTkzcnZWh/giphy.gif)
 <h2 align="center">Hey there! 👋 I'm Sahil, a passionate Tech Enthusiast always exploring new innovations</h2>
 
 ###
