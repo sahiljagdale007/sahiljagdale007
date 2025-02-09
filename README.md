@@ -43,7 +43,7 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" alt="swift logo"  />
   <img width="20" />
-  <img src="https://v31.openhab.org/logos/jdbc.png" height="70" alt="jdbc logo"  />
+  <img src="https://v31.openhab.org/logos/jdbc.png" height="75" alt="jdbc logo"  />
 </div>
 
 ###
