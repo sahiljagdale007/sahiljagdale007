@@ -43,7 +43,7 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" alt="swift logo"  />
   <img width="20" />
-   <img src="https://www.oracle.com/a/ocom/img/jdbc.svg" height="60" alt="jdbc logo"  />
+  <img src="https://www.oracle.com/a/ocom/img/jdbc.svg" height="100" alt="jdbc logo"  />
 </div>
 
 ###
