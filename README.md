@@ -43,7 +43,7 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" alt="swift logo"  />
   <img width="20" />
-  <img src="https://www.oracle.com/a/ocom/img/jdbc.svg" height="80" alt="jdbc logo"  />
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQEdS0M4GZ3ZMA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1668596168560?e=2147483647&v=beta&t=6aPntVft1UIyNirhownA97fUIjPpv0pQ5TLq6Xe_5z8" height="60" alt="jdbc logo"  />
 </div>
 
 ###
