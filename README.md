@@ -32,6 +32,7 @@
     <img src="https://v31.openhab.org/logos/jdbc.png" height="50" alt="JDBC"/>
   </div>
 </div>
+
 ###
 
 <div align="center">
