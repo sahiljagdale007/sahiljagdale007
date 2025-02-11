@@ -38,24 +38,15 @@
 
 ###
 
-<div align="center">
-  <br/>
-   <br/>
- <a href="https://www.linkedin.com/in/sahiljagdale07/" target="_blank">
-    <img src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/linkedin%20(1).svg" height="60" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/hackerman-programming.gif" style="max-width: 100%; height: auto;" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/sahiljagdale07?theme=light" width="350" alt="LeetCode Stats"/>
+div align="left" style="display: flex; align-items: center; gap: 20px;">
+  <img height="300" src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/hackerman-programming.gif"  />
+  <div>
+    <a href="https://www.linkedin.com/in/sahiljagdale07/" target="_blank">
+      <img src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/linkedin%20(1).svg" height="60" alt="LinkedIn logo"  />
+    </a>
+    <br/>
+    <img src="https://leetcard.jacoblin.cool/sahiljagdale07?theme=light" width="350" alt="LeetCode Stats"/>
+  </div>
 </div>
 
 <br clear="both">
