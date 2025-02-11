@@ -50,10 +50,7 @@
 
 <div align="center">
  <a href="https://www.linkedin.com/in/sahiljagdale07/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="80" alt="linkedin logo"  />
-  </a>
-   <a href="https://wa.me/8421681523" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" height="80" alt="WhatsApp logo" />
+    <img src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/linkedin%20(1).svg" height="80" alt="linkedin logo"  />
   </a>
     <img align="left" height="400" src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/hackerman-programming.gif"  />
 </div>
