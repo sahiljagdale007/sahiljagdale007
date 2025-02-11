@@ -43,8 +43,11 @@
     <img align="left" height="400" src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/hackerman-programming.gif"  />
 </div>
 
-<div align="right">
-  <img src="https://leetcard.jacoblin.cool/sahiljagdale07?ext=heatmap" height="200" alt="LeetCode Stats" />
+###
+
+<div align="center">
+  <h3>LeetCode Stats</h3>
+  <img src="https://leetcard.jacoblin.cool/JacobLinCool?theme=wtf" width="100%" alt="LeetCode Stats"/>
 </div>
 
 <br clear="both">
