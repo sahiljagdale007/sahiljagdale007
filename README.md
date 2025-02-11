@@ -46,8 +46,7 @@
 ###
 
 <div align="center">
-  <h3>LeetCode Stats</h3>
-  <img src="https://leetcard.jacoblin.cool/JacobLinCool?theme=wtf" width="100%" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/JacobLinCool?theme=wtf" width="250" alt="LeetCode Stats"/>
 </div>
 
 <br clear="both">
