@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/sahiljagdale07?theme=wtf" width="350" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/sahiljagdale07?theme=light" width="350" alt="LeetCode Stats"/>
 </div>
 
 <br clear="both">
