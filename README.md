@@ -29,7 +29,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" alt="Swift"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git"/>
-    <img src="https://www.oracle.com/a/ocom/img/jdbc.svg" height="60" alt="JDBC"/>
+    <img src="https://anypoint.mulesoft.com/exchange/organizations/68ef9520-24e9-4cf2-b2f5-620025690913/assets/68ef9520-24e9-4cf2-b2f5-620025690913/jdbc-connector/icon/svg/?sha=dc8ae62a56617daca7812a5ef381299bd6603a05" height="60" alt="JDBC"/>
   </div>
 </div>
 
