@@ -48,17 +48,20 @@
 
 ###
 
-<div align="right">
+<div align="center">
  <a href="https://www.linkedin.com/in/sahiljagdale07/" target="_blank">
     <img src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/linkedin%20(3).svg" height="80" alt="linkedin logo"  />
   </a>
-   <br/>
-  <img src="https://leetcard.jacoblin.cool/sahiljagdale07?border=0&radius=20" height="160" alt="LeetCode Stats" />
+   
 </div>
 <img align="left" height="400" src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/hackerman-programming.gif"  />
 
 
 <br clear="both">
+<div>
+  <br/>
+  <img src="https://leetcard.jacoblin.cool/sahiljagdale07?border=0&radius=20" height="160" alt="LeetCode Stats" />
+</div>
 
 
 ###
