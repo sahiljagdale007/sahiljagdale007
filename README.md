@@ -14,6 +14,7 @@
 ###
 
 <div align="left">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
