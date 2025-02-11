@@ -50,18 +50,20 @@
 
 <div align="center">
  <a href="https://www.linkedin.com/in/sahiljagdale07/" target="_blank">
-    <img src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/linkedin%20(3).svg" height="80" alt="linkedin logo"  />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="80" alt="linkedin logo"  />
   </a>
-   
+   <a href="https://wa.me/8421681523" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" height="80" alt="WhatsApp logo" />
+  </a>
+    <img align="left" height="400" src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/hackerman-programming.gif"  />
 </div>
-<img align="left" height="400" src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/hackerman-programming.gif"  />
 
-
-<br clear="both">
-<div>
+<div align="right">
   <br/>
   <img src="https://leetcard.jacoblin.cool/sahiljagdale07?border=0&radius=20" height="160" alt="LeetCode Stats" />
 </div>
+
+<br clear="both">
 
 
 ###
