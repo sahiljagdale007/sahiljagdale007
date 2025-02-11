@@ -46,8 +46,7 @@
 </div>
 
 <div align="right">
-  <br/>
-  <img src="https://leetcard.jacoblin.cool/sahiljagdale07?ext=heatmap" height="300" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/sahiljagdale07?ext=heatmap" height="200" alt="LeetCode Stats" />
 </div>
 
 <br clear="both">
