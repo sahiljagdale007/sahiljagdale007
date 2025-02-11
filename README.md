@@ -55,16 +55,6 @@
 
 ###
 
-<div align="center">
-  <br/>
-    <br/>
-    <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/215283228-89a6af16-23b1-4144-ac9b-064dc973b3db.gif" height="280" alt="Animated GIF" />
-</div>
-
-###
-
-
 <br clear="both">
 
 
