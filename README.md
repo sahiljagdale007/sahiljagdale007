@@ -29,7 +29,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" alt="Swift"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git"/>
-    <img src="https://v31.openhab.org/logos/jdbc.png" height="60" alt="JDBC"/>
+    <img src="https://www.oracle.com/a/ocom/img/jdbc.svg" height="60" alt="JDBC"/>
   </div>
 </div>
 
