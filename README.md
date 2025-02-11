@@ -45,7 +45,10 @@
     <img src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/linkedin%20(1).svg" height="60" alt="linkedin logo"  />
   </a>
 </div>
-<div align="center">
+
+###
+
+<div align="left">
   <img src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/hackerman-programming.gif" style="max-width: 100%; height: auto;" />
 </div>
 
