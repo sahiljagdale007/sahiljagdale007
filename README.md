@@ -34,12 +34,14 @@
 </div>
 
 ###
-
 <div align="center">
   <br/>
-   <br/>
- <a href="https://www.linkedin.com/in/sahiljagdale07/" target="_blank">
-    <img src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/linkedin%20(1).svg" height="60" alt="linkedin logo"  />
+  <br/>
+  <a href="https://www.linkedin.com/in/sahiljagdale07/" target="_blank">
+    <img src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/linkedin%20(1).svg" height="60" alt="LinkedIn logo" />
+  </a>
+  <a href="https://www.udemy.com/user/sahil-jagdale-8/" target="_blank">
+    <img src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/udemy-logo.svg" height="60" alt="Udemy logo" />
   </a>
   <img align="left" height="380" src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/hackerman-programming.gif"  />
 </div>
