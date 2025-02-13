@@ -7,7 +7,7 @@
 
 ###
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahiljagdale007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false%22%20height=%22150%22%20alt=%22stats%20graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahiljagdale007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false%22%20height=%22150%22%20alt=%22stats%20graph" height="185"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahiljagdale007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="185" alt="languages graph"  />
 </div>
 
