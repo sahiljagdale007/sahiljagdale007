@@ -42,7 +42,7 @@
     <img src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/linkedin%20(1).svg" height="60" alt="linkedin logo"  />
   </a>
    <a href="https://www.udemy.com/user/sahil-jagdale-8/" target="_blank">
-    <img src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/vecteezy_udemy-transparent-logo_46437277.png" height="80" alt="Udemy logo" />
+    <img src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/vecteezy_udemy-transparent-logo_46437277.png" height="75" alt="Udemy logo" />
   </a>
   <img align="left" height="380" src="https://github.com/sahiljagdale007/sahiljagdale007/blob/main/hackerman-programming.gif"  />
 </div>
