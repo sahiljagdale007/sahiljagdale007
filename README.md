@@ -32,7 +32,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="60" alt="Vagrant"/>
     <img src="https://hardikchavda.in/wp-content/uploads/2022/08/javajdbc.png" height="70" alt="JDBC"/>
-    <img src="https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/09/Servlet.png" height="60" alt="servelets"/>
+    <img src="https://cdn.springpeople.com/media/JSP%20and%20Servle.pngg" height="60" alt="servelets"/>
   </div>
 </div>
 
