@@ -34,7 +34,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="60" alt="Vagrant"/>
     <img src="https://www.sitesbay.com/servlet/files/sublogo.png" height="60" alt="servelets"/>
-    <img src="https://miro.medium.com/v2/resize:fit:350/1*iQPTq0gFlZ1MzXSCAjZEEg.png" height="60" alt="servelets"/>
+    <img src="https://miro.medium.com/v2/resize:fit:350/1*iQPTq0gFlZ1MzXSCAjZEEg.png" height="70" alt="servelets"/>
   </div>
 </div>
 
