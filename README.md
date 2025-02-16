@@ -30,6 +30,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git"/>
     <img src="https://hardikchavda.in/wp-content/uploads/2022/08/javajdbc.png" height="70" alt="JDBC"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="60" alt="Vagrant"/>
+    <img src="https://raw.githubusercontent.com/udhos/update-golang/main/images/git-bash-logo.png" height="60" alt="Git Bash"/>
   </div>
 </div>
 
