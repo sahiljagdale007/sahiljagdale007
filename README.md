@@ -33,7 +33,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="60" alt="Vagrant"/>
     <img src="https://hardikchavda.in/wp-content/uploads/2022/08/javajdbc.png" height="70" alt="JDBC"/>
     <img src="https://www.sitesbay.com/servlet/files/sublogo.png" height="60" alt="servelets"/>
-    <img src="https://e7.pngegg.com/pngimages/279/249/png-clipart-java-logo-programming-language-java-plum-miscellaneous-text-thumbnail.png" height="60" alt="servelets"/>
+    <img src="https://image.pngaaa.com/503/2459503-middle.png" height="60" alt="servelets"/>
   </div>
 </div>
 
