@@ -31,7 +31,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="60" alt="Vagrant"/>
-    <img src="https://hardikchavda.in/wp-content/uploads/2022/08/javajdbc.png" height="70" alt="JDBC"/>
+    <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fphnlj6uix5563natns2h.png" height="70" alt="JDBC"/>
     <img src="https://www.sitesbay.com/servlet/files/sublogo.png" height="60" alt="servelets"/>
     <img src="https://miro.medium.com/v2/resize:fit:350/1*iQPTq0gFlZ1MzXSCAjZEEg.png" height="60" alt="servelets"/>
   </div>
