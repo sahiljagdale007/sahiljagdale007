@@ -59,6 +59,8 @@
 
 <div align="right">
   <img src="https://leetcard.jacoblin.cool/sahiljagdale07?ext=heatmap" width="350" alt="LeetCode Stats"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=sahiljagdale007&theme=dracula&hide_border=false" width="350" alt="GitHub Streak"/>
 </div>
 
 ###
