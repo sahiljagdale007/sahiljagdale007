@@ -61,8 +61,8 @@
   <img src="https://leetcard.jacoblin.cool/sahiljagdale07?ext=heatmap" width="350" alt="LeetCode Stats"/>
   <br/>
   <br/>
-  <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=sahiljagdale007" width="350" alt="GitHub Streak"/>
+   <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=sahiljagdale007" width="100%" height="auto" alt="GitHub Streak"/>
   </a>
 </div>
 
