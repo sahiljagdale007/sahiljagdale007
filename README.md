@@ -59,7 +59,7 @@
 
 <div align="right">
     <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=sahiljagdale007" width="350" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahiljagdale007&theme=flag-india&hide_border=false" width="100%" max-width="400px" alt="GitHub Streak"/>
   </a>
   <br/>
   <br/>
