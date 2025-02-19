@@ -7,8 +7,8 @@
 
 ###
 <div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=sahiljagdale007&theme=outrun&show_icons=true&hide_border=false&count_private=true" height="150" alt="sahiljagdale007's Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahiljagdale007&theme=outrun&show_icons=true&hide_border=false&layout=compact" height="185" alt="sahiljagdale007's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahiljagdale007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false%22%20height=%22150%22%20alt=%22stats%20graph" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahiljagdale007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="185" alt="languages graph"  />
 </div>
 
 ###
@@ -58,7 +58,9 @@
 ###
 
 <div align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahiljagdale007&theme=outrun&hide_border=false" alt="sahiljagdale007's Streak">
+    <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=sahiljagdale007" width="350" alt="GitHub Streak"/>
+  </a>
   <br/>
   <br/>
   <img src="https://leetcard.jacoblin.cool/sahiljagdale07?ext=heatmap" width="350" alt="LeetCode Stats"/>
@@ -70,4 +72,3 @@
 
 
 ###
-
