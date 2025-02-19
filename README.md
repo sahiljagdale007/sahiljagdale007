@@ -58,9 +58,7 @@
 ###
 
 <div align="right">
-   <a>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahiljagdale007&theme=outrun&hide_border=false" alt="sahiljagdale007's Streak">
-  </a>
   <br/>
   <br/>
   <img src="https://leetcard.jacoblin.cool/sahiljagdale07?ext=heatmap" width="350" alt="LeetCode Stats"/>
