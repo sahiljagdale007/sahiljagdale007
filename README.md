@@ -7,8 +7,8 @@
 
 ###
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahiljagdale007&theme=dark&show_icons=true&hide_border=false&count_private=true" height="150" alt="sahiljagdale007's Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahiljagdale007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="185" alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api?username=sahiljagdale007&theme=outrun&show_icons=true&hide_border=false&count_private=true" height="150" alt="sahiljagdale007's Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahiljagdale007&theme=outrun&show_icons=true&hide_border=false&layout=compact" height="185" alt="sahiljagdale007's Top Languages">
 </div>
 
 ###
@@ -59,7 +59,7 @@
 
 <div align="right">
     <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=sahiljagdale007" width="350" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahiljagdale007&theme=outrun&hide_border=false" alt="sahiljagdale007's Streak">
   </a>
   <br/>
   <br/>
