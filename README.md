@@ -45,6 +45,7 @@
 ###
 <div align="center">
   <br/>
+   <img src="https://github-readme-stats.vercel.app/api?username=sahiljagdale007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats"/>
     <br/>
     <br/>
   <a href="https://www.linkedin.com/in/sahiljagdale07/" target="_blank">
