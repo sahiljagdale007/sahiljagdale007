@@ -58,7 +58,7 @@
 ###
 
 <div align="right">
-    <a href="https://git.io/streak-stats">
+   <a>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahiljagdale007&theme=outrun&hide_border=false" alt="sahiljagdale007's Streak">
   </a>
   <br/>
