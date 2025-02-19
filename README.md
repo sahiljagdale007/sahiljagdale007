@@ -58,9 +58,7 @@
 ###
 
 <div align="right">
-    <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=sahiljagdale007" width="350" alt="GitHub Streak"/>
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahiljagdale007&theme=flag-india&hide_border=false" alt="sahiljagdale007's Streak">
   <br/>
   <br/>
   <img src="https://leetcard.jacoblin.cool/sahiljagdale07?ext=heatmap" width="350" alt="LeetCode Stats"/>
