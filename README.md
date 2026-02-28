@@ -35,7 +35,7 @@
    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtTIjoqqu2it_HCI_XZtoSwtuvAyAVUseBEYWC6fXS7XqHwAfjoNif136x55ohS3cn9nMClMkdaolZRK4WZzA-hBTwSPZOXLu8st5CAShJpuMPamX2S92hRu_YeDn7yfrxvRC7bGxNGqVk-p3CPK5Z7YdjF2qX7ALX3VBe68_bihnizAdmWDJOmEboLlg/s0-rw/GitHub%20Logo%20White%202013.png" height="60" alt="GitHub"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="60" alt="Vagrant"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/767px-Vimlogo.svg.png" height="60" alt="Vim"/>
+   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/767px-Vimlogo.svg.png" height="60" alt="Vim"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VS Code"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="IntelliJ IDEA"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="PyCharm"/>
