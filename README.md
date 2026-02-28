@@ -2,7 +2,7 @@
 <h2 align="center">Hey there! 👋 I'm Sahil, a passionate Tech Enthusiast always exploring new innovations</h2>
 
 ###
-
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=midnight-purple&fontFamily=&showIcons=false&preferLogin=true">    <img  alt="sahiljagdale007's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sahiljagdale007?cardType=github&theme=midnight-purple&fontFamily=&showIcons=false&preferLogin=true" />  </a>
 <img align="right" height="380" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"  />
 
 ###
