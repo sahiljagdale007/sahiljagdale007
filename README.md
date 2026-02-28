@@ -2,11 +2,12 @@
 <h2 align="center">Hey there! 👋 I'm Sahil, a passionate Tech Enthusiast always exploring new innovations</h2>
 
 ###
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=midnight-purple&fontFamily=&showIcons=false&preferLogin=true">    <img  alt="sahiljagdale007's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sahiljagdale007?cardType=github&theme=midnight-purple&fontFamily=&showIcons=false&preferLogin=true" />  </a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sahiljagdale007&theme=github-green-purple&short_numbers=true" alt="GitHub Streak" /></a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=midnight-purple&fontFamily=&showIcons=false&preferLogin=true">    
+ 
 
 ###
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sahiljagdale007&theme=highcontrast&border_radius=4&card_width=401&card_height=150" alt="GitHub Streak" /></a>
+ <img  alt="sahiljagdale007's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sahiljagdale007?cardType=github&theme=midnight-purple&fontFamily=&showIcons=false&preferLogin=true" />  </a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sahiljagdale007&theme=github-green-purple&short_numbers=true" alt="GitHub Streak" /></a>
 <!--<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sahiljagdale007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false%22%20height=%22150%22%20alt=%22stats%20graph" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahiljagdale007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="185" alt="languages graph"  />
